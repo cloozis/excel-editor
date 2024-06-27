@@ -1,2 +1,2 @@
-# excel-editor
-excel editor
+# py-excel-cell-changer
+py-excel-cell-changer
